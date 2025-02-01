@@ -1,5 +1,4 @@
 # CI-CD
-Репозиторий для второго задания INT4 PTStart.
 
 Автор: Гришин Александр grishin.alieksandr@inbox.ru
 
